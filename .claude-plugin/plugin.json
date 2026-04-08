@@ -1,0 +1,11 @@
+{
+  "name": "user-tester",
+  "description": "AIペルソナによるユーザーテストツールキット（アンケート・インタビュー・ユーザビリティテスト）",
+  "version": "0.1.0",
+  "author": {
+    "name": "taketetsu1982"
+  },
+  "repository": "https://github.com/taketetsu1982/user-tester",
+  "license": "MIT",
+  "keywords": ["user-testing", "persona", "survey", "interview", "usability"]
+}
