@@ -1,9 +1,9 @@
 ---
-name: user-interview
+name: interview
 description: 1人のペルソナと対話形式でインタビューを行う
 ---
 
-# /user-interview
+# /interview
 
 ターゲットユーザーから1人のペルソナを生成し、ユーザー（人間）がそのペルソナに自由に質問できる対話セッションを開始する。
 
